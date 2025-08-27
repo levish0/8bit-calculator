@@ -1,0 +1,12 @@
+*.vvp
+*.vcd
+*.fst
+*.log
+
+*.out
+*.o
+
+.vscode/
+*.swp
+*.swo
+*.bak
